@@ -1,1 +1,0 @@
-jquery.datepick-pl.js
